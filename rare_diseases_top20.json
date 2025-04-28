@@ -1,0 +1,82 @@
+[
+  {
+    "disease": "阿拉杰里综合征 (Alagille Syndrome, ALGS)",
+    "symptoms": ["皮肤黄疸", "夜间瘙痒", "心脏杂音"]
+  },
+  {
+    "disease": "马凡综合征 (Marfan Syndrome)",
+    "symptoms": ["高瘦体型", "手指异常细长", "主动脉扩张"]
+  },
+  {
+    "disease": "亨廷顿舞蹈症 (Huntington's Disease)",
+    "symptoms": ["不自主舞蹈样动作", "认知障碍", "情绪波动"]
+  },
+  {
+    "disease": "戈谢病 (Gaucher Disease)",
+    "symptoms": ["肝脾肿大", "易出血", "骨痛"]
+  },
+  {
+    "disease": "威廉姆斯综合征 (Williams Syndrome)",
+    "symptoms": ["独特的面部特征", "智力障碍", "心血管异常"]
+  },
+  {
+    "disease": "脆性X综合征 (Fragile X Syndrome)",
+    "symptoms": ["智力发育迟缓", "面部特征异常", "社交障碍"]
+  },
+  {
+    "disease": "普瑞德-威利综合征 (Prader-Willi Syndrome)",
+    "symptoms": ["严重的食欲亢进", "肌张力低下", "身材矮小"]
+  },
+  {
+    "disease": "诺南综合征 (Noonan Syndrome)",
+    "symptoms": ["短颈", "心脏病变", "学习困难"]
+  },
+  {
+    "disease": "莱斯综合征 (Leigh Syndrome)",
+    "symptoms": ["运动发育迟缓", "呼吸问题", "神经退行性病变"]
+  },
+  {
+    "disease": "迪乔治综合征 (DiGeorge Syndrome)",
+    "symptoms": ["免疫缺陷", "心脏畸形", "面部特征异常"]
+  },
+  {
+    "disease": "艾迪生病 (Addison's Disease)",
+    "symptoms": ["皮肤黝黑", "体重减轻", "疲劳"]
+  },
+  {
+    "disease": "血友病A型 (Hemophilia A)",
+    "symptoms": ["异常出血", "关节肿胀", "自发性淤青"]
+  },
+  {
+    "disease": "遗传性血管性水肿 (Hereditary Angioedema)",
+    "symptoms": ["面部或四肢肿胀", "腹痛", "呼吸困难"]
+  },
+  {
+    "disease": "红斑狼疮 (Systemic Lupus Erythematosus, SLE)",
+    "symptoms": ["面部蝴蝶斑", "关节痛", "光敏感"]
+  },
+  {
+    "disease": "脊髓性肌萎缩症 (Spinal Muscular Atrophy, SMA)",
+    "symptoms": ["肌无力", "运动困难", "呼吸困难"]
+  },
+  {
+    "disease": "家族性高胆固醇血症 (Familial Hypercholesterolemia)",
+    "symptoms": ["早发性心脏病", "皮肤黄色瘤", "高血脂"]
+  },
+  {
+    "disease": "黏多糖贮积症I型 (Hurler Syndrome)",
+    "symptoms": ["面部粗糙", "角膜混浊", "生长迟缓"]
+  },
+  {
+    "disease": "法布里病 (Fabry Disease)",
+    "symptoms": ["四肢疼痛", "汗液减少", "肾脏功能受损"]
+  },
+  {
+    "disease": "阿尔波特综合征 (Alport Syndrome)",
+    "symptoms": ["血尿", "听力下降", "视网膜病变"]
+  },
+  {
+    "disease": "特纳综合征 (Turner Syndrome)",
+    "symptoms": ["短颈", "身材矮小", "性发育迟缓"]
+  }
+]

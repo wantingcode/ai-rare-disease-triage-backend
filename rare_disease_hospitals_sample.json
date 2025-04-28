@@ -1,0 +1,22 @@
+[
+  {"disease": "Alagille Syndrome", "hospital": "Boston Children's Hospital", "location": "Boston, USA"},
+  {"disease": "Angelman Syndrome", "hospital": "Children's Hospital of Fudan University", "location": "Shanghai, China"},
+  {"disease": "Cystic Fibrosis", "hospital": "Children's National Hospital", "location": "Washington, D.C., USA"},
+  {"disease": "Duchenne Muscular Dystrophy", "hospital": "Peking University First Hospital", "location": "Beijing, China"},
+  {"disease": "Hirschsprung Disease", "hospital": "Children's Hospital of Philadelphia", "location": "Philadelphia, USA"},
+  {"disease": "Marfan Syndrome", "hospital": "Johns Hopkins Hospital", "location": "Baltimore, USA"},
+  {"disease": "Neurofibromatosis Type 1", "hospital": "Shanghai Children's Medical Center", "location": "Shanghai, China"},
+  {"disease": "Noonan Syndrome", "hospital": "Mayo Clinic", "location": "Rochester, USA"},
+  {"disease": "Prader-Willi Syndrome", "hospital": "Beijing Children's Hospital", "location": "Beijing, China"},
+  {"disease": "Spinal Muscular Atrophy", "hospital": "Children's Hospital of Los Angeles", "location": "Los Angeles, USA"},
+  {"disease": "Tay-Sachs Disease", "hospital": "Massachusetts General Hospital", "location": "Boston, USA"},
+  {"disease": "Turner Syndrome", "hospital": "Children's Hospital of Zhejiang University", "location": "Hangzhou, China"},
+  {"disease": "Williams Syndrome", "hospital": "St. Jude Children's Research Hospital", "location": "Memphis, USA"},
+  {"disease": "Wilson Disease", "hospital": "Ruijin Hospital Shanghai", "location": "Shanghai, China"},
+  {"disease": "Achondroplasia", "hospital": "Children’s Hospital Colorado", "location": "Aurora, USA"},
+  {"disease": "Congenital Diaphragmatic Hernia", "hospital": "Cincinnati Children's Hospital", "location": "Cincinnati, USA"},
+  {"disease": "Krabbe Disease", "hospital": "Duke University Hospital", "location": "Durham, USA"},
+  {"disease": "Maple Syrup Urine Disease", "hospital": "Shenzhen Children's Hospital", "location": "Shenzhen, China"},
+  {"disease": "Menkes Disease", "hospital": "Children's Hospital of Pittsburgh", "location": "Pittsburgh, USA"},
+  {"disease": "Phenylketonuria (PKU)", "hospital": "Shanghai Xinhua Hospital", "location": "Shanghai, China"}
+]

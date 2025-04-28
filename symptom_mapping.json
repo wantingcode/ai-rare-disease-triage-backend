@@ -1,0 +1,42 @@
+[
+  {
+    "symptom": "宝宝发育迟缓",
+    "disease": "天使综合征 (Angelman Syndrome)"
+  },
+  {
+    "symptom": "皮肤发黄",
+    "disease": "阿拉杰里综合征 (Alagille Syndrome)"
+  },
+  {
+    "symptom": "儿童心脏杂音",
+    "disease": "威廉姆斯综合征 (Williams Syndrome)"
+  },
+  {
+    "symptom": "面部特征异常",
+    "disease": "诺南综合征 (Noonan Syndrome)"
+  },
+  {
+    "symptom": "手脚细长且柔软",
+    "disease": "马凡综合征 (Marfan Syndrome)"
+  },
+  {
+    "symptom": "孩子行走困难",
+    "disease": "杜氏肌营养不良症 (Duchenne Muscular Dystrophy)"
+  },
+  {
+    "symptom": "反复肺部感染",
+    "disease": "囊性纤维化 (Cystic Fibrosis)"
+  },
+  {
+    "symptom": "女孩发育正常后退化",
+    "disease": "雷特综合征 (Rett Syndrome)"
+  },
+  {
+    "symptom": "肝脾肿大",
+    "disease": "戈谢病 (Gaucher Disease)"
+  },
+  {
+    "symptom": "婴儿肌无力",
+    "disease": "脊髓性肌萎缩症 (Spinal Muscular Atrophy)"
+  }
+]
