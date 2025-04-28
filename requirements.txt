@@ -3,3 +3,4 @@ sentence-transformers
 faiss-cpu
 transformers
 flask_cors
+openai
